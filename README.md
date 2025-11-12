@@ -59,10 +59,9 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nemtullakhan&show_icons=true&theme=default&count_private=true&hide_border=true" />
+  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemtullakhan&layout=compact&theme=default&hide_border=true" />
-</p>
-<p align="center"> <img src="https://img.shields.io/badge/C%23-95%25-success?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%20Core-90%25-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-75%25-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemtullakhan&layout=compact&theme=default&hide_border=true&langs_count=8&custom_title=Most%20Used%20Tech%20Stack" /> </p>
+<img src="https://img.shields.io/badge/C%23-95%25-success?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%20Core-90%25-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-75%25-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemtullakhan&layout=compact&theme=default&hide_border=true&langs_count=8&custom_title=Most%20Used%20Tech%20Stack" /> </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nemtullakhan&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
