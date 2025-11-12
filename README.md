@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nemtullakhan/Nemtullakhan/main/assets/banner.png" alt="Nemtulla Khan - Full Stack Developer (.NET, Angular, Azure)" width="900"/>
+  <img src="https://raw.githubusercontent.com/Nemtullakhan/Nemtullakhan/main/assets/banner.jpg" alt="Nemtulla Khan - Full Stack Developer (.NET, Angular, Azure)" width="900"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Nemtulla Khan</h1>
