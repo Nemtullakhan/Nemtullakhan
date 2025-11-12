@@ -11,8 +11,14 @@
 </p>
 
 ---
+---
+<h2 align="center">A passionate Fullstack developer from India</h2>
+### 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nemtullakhan&theme=flat&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
+</p>
 
-### 🏅 GitHub Badges
+<!-- ### 🏅 GitHub Badges
 <p align="center">
   <img src="https://img.shields.io/badge/LongTimeUser-Village%20Elder-10pt-orange?style=for-the-badge" alt="Long Time User"/>
   <img src="https://img.shields.io/badge/Stars-Super%20Star-114pt-yellow?style=for-the-badge" alt="Stars"/>
@@ -20,11 +26,12 @@
   <img src="https://img.shields.io/badge/Experience-Expert%20Dev-39pt-success?style=for-the-badge" alt="Experience"/>
   <img src="https://img.shields.io/badge/Commits-High%20Committer-184pt-brightgreen?style=for-the-badge" alt="Commits"/>
   <img src="https://img.shields.io/badge/Followers-First%20Friend-4pt-lightgrey?style=for-the-badge" alt="Followers"/>
-</p>
+</p> -->
 
 ---
 
-### 👨‍💻 About Me  
+<!-- ### 👨‍💻 About Me   -->
+ <a href="https://www.linkedin.com/in/nemtullakhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-nemtullakhan-blue?logo=linkedin&style=for-the-badge"></a>
 - 🔭 I’m currently working on **.NET Core, Angular, and Azure Cloud**  
 - 🌱 Currently learning **Microservices**, **System Design**, and **Clean Architecture**  
 - 💬 Ask me about **C#, .NET Core, Web API, Angular, SQL, and Azure Services**  
@@ -36,7 +43,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/nemtullakhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-nemtullakhan-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="https://www.youtube.com/@Nemtechofficial" target="_blank"><img src="https://img.shields.io/badge/YouTube-NemTech%20Official-red?logo=youtube&style=for-the-badge"></a>
@@ -46,7 +53,7 @@
 
 ---
 
-### 🧰 Languages and Tools  
+### 🧰 Languages and Tools: 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,azure,angular,typescript,js,html,css,bootstrap,cs,git,github,visualstudio,vscode,sqlserver,mysql,postman,docker,react" />
 </p>
@@ -63,12 +70,7 @@
   <img src="https://streak-stats.demolab.com?user=Nemtullakhan&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
-### 🏆 GitHub Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nemtullakhan&theme=flat&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
-</p>
 
 ---
 
@@ -93,11 +95,7 @@ Hands-on examples with **Azure Functions**, **Blob Triggers**, and **Service Bus
 
 ---
 
-### 💬 Developer Quote  
-> “Clean code always looks like it was written by someone who cares.”  
-> — Robert C. Martin (Uncle Bob)
 
----
 
 ### ⚡ Fun Developer Stats  
 - 💻 Total Repositories: 19+  
