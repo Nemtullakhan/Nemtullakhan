@@ -7,8 +7,8 @@
 
 <h1 align="center">Hi 👋, I'm Nemtulla Khan</h1>
 <p align="center">
-  <b>Full Stack Developer (.NET, Angular, Azure, SQL Server)</b><br/>
-  <i>A passionate developer from India 🇮🇳 who loves building scalable web apps.</i>
+  <b>Full Stack Developer (.NET | Angular | Azure | SQL Server)</b><br/>
+  <i>A passionate developer from India 🇮🇳 who loves building scalable, secure, and cloud-ready web apps.</i>
 </p>
 
 ---
@@ -22,13 +22,13 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently working on **.NET Core, Angular, and Azure Cloud**
-- 🌱 Learning **Microservices, Clean Architecture, and System Design**
+- 🌱 Learning **Microservices, System Design, and Clean Architecture**
 - 💬 Ask me about **C#, .NET Core, Web API, Angular, SQL Server, and Azure**
 - 🎯 Passionate about **writing clean, scalable, and maintainable code**
 - 🎥 I share tutorials on YouTube → [NemTech Official](https://www.youtube.com/@Nemtechofficial)
-- 💻 Portfolio: [nemtullakhan.netlify.app](https://nemtullakhan.netlify.app)
-- 🌐 Website: [www.nemtech.in](https://www.nemtech.in)
-- 📫 Reach me at **nemtulla.engineer@gmail.com**
+- 💻 Portfolio → [nemtullakhan.netlify.app](https://nemtullakhan.netlify.app)
+- 🌐 Website → [www.nemtech.in](https://www.nemtech.in)
+- 📫 Reach me → **nemtulla.engineer@gmail.com**
 
 ---
 
@@ -57,13 +57,24 @@
 
 ---
 
+### 💡 Skill Mastery Breakdown
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-95%25-success?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20Core-90%25-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-75%25-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemtullakhan&layout=compact&theme=default&hide_border=true&langs_count=8&custom_title=Most%20Used%20Tech%20Stack" />
+</p>
+
+---
+
 ### 📊 GitHub Insights
 <p align="center">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemtullakhan&layout=compact&theme=default&hide_border=true" />
-<img src="https://img.shields.io/badge/C%23-95%25-success?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET%20Core-90%25-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-75%25-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nemtullakhan&layout=compact&theme=default&hide_border=true&langs_count=8&custom_title=Most%20Used%20Tech%20Stack" /> </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nemtullakhan&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nemtullakhan&show_icons=true&theme=default&count_private=true&hide_border=true" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=Nemtullakhan&theme=default&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -71,16 +82,16 @@
 ### 🚀 Featured Projects
 
 #### 🧾 [Supply Chain Management System](https://github.com/Nemtullakhan/SupplyChainSystem)
-An end-to-end inventory & job-work management platform built for defense logistics.  
+End-to-end inventory & job-work management platform built for defense logistics.  
 **Tech:** ASP.NET Core 6 | Angular | SQL Server | Azure Blob Storage | JWT Authentication  
 
 #### 🧰 [Helper Portal](https://github.com/Nemtullakhan/HelperPortal)
-A modular service platform for managing customer requests efficiently.  
-**Tech:** .NET 7 | Web API | Angular 14 | Azure Functions  
+A modular service management platform for customers with clean architecture.  
+**Tech:** .NET 7 | Web API | Angular 14 | SQL Server | Azure Functions  
 
 #### ☁️ [Azure Integration Samples](https://github.com/Nemtullakhan/AzureExamples)
-A collection of real-world **Azure Functions**, **Service Bus**, and **Blob Trigger** examples.  
-**Tech:** .NET 6 | Azure SDK | Event-Driven Architecture  
+Hands-on examples with **Azure Functions**, **Blob Triggers**, and **Service Bus**.  
+**Tech:** .NET 6 | Azure SDK | Event-driven architecture  
 
 ---
 
@@ -94,7 +105,7 @@ A collection of real-world **Azure Functions**, **Service Bus**, and **Blob Trig
 - 🌟 Stars Earned: **4+**
 - 🔥 Commits (Last Year): **64+**
 - 🧩 Favorite Stack: **.NET + Angular + Azure**
-- 🎮 Hobby: Coding, Mentoring, Creating Tutorials
+- 🎮 Hobby: Coding, Mentoring, and Creating YouTube Tutorials
 
 ---
 
@@ -104,14 +115,14 @@ A collection of real-world **Azure Functions**, **Service Bus**, and **Blob Trig
 
 ---
 
-### 🤝 Let's Collaborate
+### 🤝 Let’s Collaborate
 I’m open to:  
 ✅ Freelance Full Stack Development (.NET + Angular)  
 ✅ Azure Cloud Integrations  
-✅ Technical Mentorship & Code Reviews  
+✅ Mentorship & Technical Interviews  
 
-📧 Email: **nemtulla.engineer@gmail.com**  
-💼 Connect: [LinkedIn](https://www.linkedin.com/in/nemtullakhan)
+📧 Email → **nemtulla.engineer@gmail.com**  
+💼 Connect → [LinkedIn](https://www.linkedin.com/in/nemtullakhan)
 
 ---
 
